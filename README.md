@@ -4,7 +4,9 @@ A pre-token protocol radar built from the DefiLlama snapshot. It ranks the watch
 set of sub-floor protocols by **implied value** — a transparent model, recomputed live on the page,
 that never claims to be a price.
 
-[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/tonnkid/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/tonnkid/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
 ## What it does
 
@@ -46,4 +48,3 @@ protocols will ever issue a token.
 
 MIT — see `LICENSE`.
 
-<!-- build: token-radar-01 -->
