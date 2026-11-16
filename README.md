@@ -45,3 +45,5 @@ protocols will ever issue a token.
 ## License
 
 MIT — see `LICENSE`.
+
+<!-- build: token-radar-01 -->
